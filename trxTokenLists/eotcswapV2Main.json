@@ -1,0 +1,29 @@
+{
+  "name": "EotcSwap Extended",
+  "timestamp": "2022-08-12T05:48:12.853Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotclist.png",
+  "keywords": ["eotcswap", "extended"],
+  "tokens": [
+    {
+      "name": "Eotc Token",
+      "symbol": "EOTC",
+      "address": "0xdfe9d10781d0e48bcc03f0fda2067e45aec6a144",
+      "chainId": 11111,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
+    },
+    {
+      "name": "Binance Pegged USDT",
+      "symbol": "USDT",
+      "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+      "chainId": 11111,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
+    }
+  ]
+}
