@@ -30,7 +30,7 @@
       "symbol": "USDD",
       "address": "0x94f24e992ca04b49c6f2a2753076ef8938ed4daa",
       "chainId": 11111,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdd.png"
     }
   ]
