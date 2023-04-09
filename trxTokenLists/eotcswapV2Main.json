@@ -24,7 +24,7 @@
       "chainId": 11111,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdd.png"
-    }
+    },
     {
       "name": "Binance Pegged USDT",
       "symbol": "USDT",
