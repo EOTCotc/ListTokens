@@ -35,6 +35,14 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/busd.png"
-      }   
+      },
+      {
+        "name": "Binance Pegged USDC",
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
+      }    
     ]
   }
