@@ -3,15 +3,23 @@
     "tokens": [
         {
             "symbol": "EOTC",
-            "address": "TWrZRHY9aKQZcyjpovdH6qeCEyYZrRQDZt",
+            "address": "TWP9nhCPWPa6Wr1wSgNY228jGgZ3vzjw4u",
             "chainId": 1,
             "decimals": 6,
             "name": "Eotc Token",
             "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
         },
+         {
+            "symbol": "USDD",
+            "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+            "chainId": 1,
+            "decimals": 18,
+            "name": "Decentralized USD",
+            "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdd.png"
+        },
         {
             "symbol": "USDT",
-            "address": "TXLAQ63Xg1NAzckPwKHvzw7CSEmLMEqcdj",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
             "chainId": 1,
             "decimals": 18,
             "name": "Binance Pegged USDT",
