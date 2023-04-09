@@ -32,6 +32,14 @@
       "chainId": 11111,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x3487b63d30b5b2c87fb7ffa8bcfade38eaac1abe",
+      "chainId": 11111,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
     }
   ]
 }
