@@ -22,7 +22,7 @@
             "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
             "chainId": 1,
             "decimals": 6,
-            "name": "Binance Pegged USDT",
+            "name": "Tether USD",
             "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
         }
     ],
