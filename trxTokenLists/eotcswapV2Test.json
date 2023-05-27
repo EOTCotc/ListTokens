@@ -29,12 +29,12 @@
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
       },
       {
-        "name": "BTT",
-        "symbol": "BTT",
-        "address": "0x8df49db5dbf07e498492d2dafcf7b305cdc72471",
+        "name": "VCU",
+        "symbol": "VCU",
+        "address": "TW9y6jC1QU3ySysyubkhYCMR4ELHk8CueB",
         "chainId": 201910292,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
       }       
     ]
   }
