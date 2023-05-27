@@ -21,6 +21,14 @@
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
       },
       {
+        "name": "VCU",
+        "symbol": "VCU",
+        "address": "0xdd6b7c7a0e6da06b209a7c4dd1ca2a4be3e8ef8e",
+        "chainId": 201910292,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
+      },
+      {
         "name": "Binance Pegged USDT",
         "symbol": "USDT",
         "address": "0xea51342dabbb928ae1e576bd39eff8aaf070a8c6",
@@ -29,12 +37,12 @@
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
       },
       {
-        "name": "VCU",
-        "symbol": "VCU",
-        "address": "0xdd6b7c7a0e6da06b209a7c4dd1ca2a4be3e8ef8e",
+        "name": "BTT",
+        "symbol": "BTT",
+        "address": "0x8df49db5dbf07e498492d2dafcf7b305cdc72471",
         "chainId": 201910292,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
-      }       
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
+      }     
     ]
   }
