@@ -43,6 +43,22 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
-      }    
+      } ,
+      {
+        "name": "VCU",
+        "symbol": "VCU",
+        "address": "0x4927cAAc9d9a10b3f0e92b4267C95D86d07749e5",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
+      } ,
+      {
+        "name": "ZHNS",
+        "symbol": "ZHNS",
+        "address": "0x915F0ef37cE7270242D1bce2602b58081eD2D726",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
+      }   
     ]
   }
