@@ -11,39 +11,7 @@
       "eotcswap",
       "extended"
     ],
-    "tokens": [
-      {
-        "name": "Eotc Token",
-        "symbol": "EOTC",
-        "address": "0xba3Dad47A1DB6211CF868fEBab0d8ff55183ED3E",
-        "chainId": 56,
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotc.png"
-      },
-      {
-        "name": "Binance Pegged USDT",
-        "symbol": "USDT",
-        "address": "0x55d398326f99059fF775485246999027B3197955",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdt.png"
-      },
-      {
-        "name": "BUSD Token",
-        "symbol": "BUSD",
-        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/busd.png"
-      },
-      {
-        "name": "Binance Pegged USDC",
-        "symbol": "USDC",
-        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
-      } ,
+    "tokens": [      
       {
         "name": "VCU",
         "symbol": "VCU",
