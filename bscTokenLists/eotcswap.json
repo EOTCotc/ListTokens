@@ -46,7 +46,7 @@
       },
       {
         "name": "DEFI DAO",
-        "symbol": "DFD ",
+        "symbol": "DFD",
         "address": "0x0FC905c34D0D8Da9C226F4A2dF7F6Cecb463ca7E",
         "chainId": 56,
         "decimals": 18,
