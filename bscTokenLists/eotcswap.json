@@ -43,6 +43,14 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/usdc.png"
+      },
+      {
+        "name": "DEFI DAO",
+        "symbol": "DFD ",
+        "address": "0x0FC905c34D0D8Da9C226F4A2dF7F6Cecb463ca7E",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/dfd.png"
       }   
     ]
   }
